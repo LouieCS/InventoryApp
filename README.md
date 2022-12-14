@@ -1,6 +1,8 @@
 # InventoryApp-JavaFX
 
 Developed using JavaFX
+
+This program is an inventory management application. The GUI contains two table views of the classes Parts and Products. A user is able to add, modify, and/or delete items from the Parts and Products lists. The main screen also contains two search bars that can be used to search Parts and Products by ID or name. Parts is an abstract class that is inherited by two classes (InHouse & Outsourced). A part can either be In-house or Outsourced. A product can be associated with various parts. A user cannot delete a product if there are any parts associated with it. The program contains input validation and logical error checks which display messages to a user in the UI or in a dialog box.
 ___________________________________________________________________
 
 COMPETENCIES
