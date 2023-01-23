@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"lsc482.lsc482","l":"controller"},{"m":"lsc482.lsc482","l":"lsc482.lsc482"},{"m":"lsc482.lsc482","l":"model"}];updateSearchResults();

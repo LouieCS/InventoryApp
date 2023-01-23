@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"lsc482.lsc482"}];updateSearchResults();
